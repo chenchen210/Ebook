@@ -1,0 +1,22 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "This is ebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenchen210/Ebook.git"
+  },
+  "author": "chenchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenchen210/Ebook/issues"
+  },
+  "homepage": "https://github.com/chenchen210/Ebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
